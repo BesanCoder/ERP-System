@@ -1,0 +1,7 @@
+ /******Tables style*********/
+ table{margin: 10px; width: 100%; text-align: center;font-weight:400px;}
+   td{padding: 20px; 
+    margin:10px; 
+    background: rgba(240, 248, 255, 0.716);
+    font-size: larger;}
+   th{padding: 10px; color: aliceblue;background:#530909}
